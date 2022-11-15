@@ -12,3 +12,11 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.AppBar {
+  width: 100%;
+  height: 6rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
