@@ -29,7 +29,7 @@ const Home: NextPage = () => {
           <NavBar />
 
           <Spacer />
-          {/* <Center>{connected ? <Connected /> : <Disconnected />}</Center> */}
+          <Center h="100%">{connected ? <Connected /> : <Disconnected />}</Center>
           <Spacer />
 
           <Center>
